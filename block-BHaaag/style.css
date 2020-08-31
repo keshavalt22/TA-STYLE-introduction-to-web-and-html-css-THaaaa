@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(34,57,106);
+    margin-left: 20px;
+}
+h1 {
+    color: rgb(255,255,255);
+    font-size: 48px;
+}
+.p1 {
+    color: rgb(255,255,255);
+    font-size: 18px;
+}
+p {
+    color: rgb(255,255,255);
+    font-size: 16px;
+}
+h2 {
+         color: rgb(49,187,102);
+        font-size: 36px;
+        margin-top: 50px;
+}
+h3 {
+             color: rgb(255,255,255);
+            font-size: 24px;
+            margin-top: 50px;
+}
+a {
+                color: rgb(249,35,77);
+                margin-right: 50px;
+}
