@@ -1,0 +1,12 @@
+body {  
+background-color: aliceblue;}
+#topic {
+    color: rgb(9, 9, 110);
+    font-size: 40px;
+    text-align: center;
+}
+.para {
+    color: rgb(38, 77, 150);
+    font-size: 20px;
+    margin: 20px;
+}
